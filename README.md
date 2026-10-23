@@ -9,3 +9,4 @@
 # There are also:
 1. [Pet store shipping and basket analysis](https://github.com/kirill-ivanov-data/ecommerce-sales-power-bi-analysis/blob/main/README.md) (Power BI)
 2. [Ecommerce sales and returns analysis](https://github.com/kirill-ivanov-data/ecommerce-sales-and-returns-analysis/blob/main/README_ua.md) (SQL, BigQuery, Tableau)
+3. [Exploratory Data Analysis (EDA) of Coffee Shop Sales](https://github.com/kirill-ivanov-data/exploratory-sales-analysis/blob/main/README.md) (Python (pandas, numpy, matplotlib, seaborn))
